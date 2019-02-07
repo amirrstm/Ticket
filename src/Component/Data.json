@@ -1,0 +1,38 @@
+[
+    {
+        "Origin" : "تهران",
+        "OriginTime" : "05:45",
+        "BusInfo" : ["اتوبوس VIP", "اسکانیا 30 نفره"],
+        "Destenation" : "شیراز",
+        "DestenationTime" : "14:50",
+        "RoadDay" : "یکشنبه 24 اسفند 97",
+        "Price" : "13685000"
+    },
+    {
+        "Origin" : "تبریز",
+        "OriginTime" : "07:35",
+        "BusInfo" : ["اتوبوس معمولی", "اسکانیا 12 نفره"],
+        "Destenation" : "اصفهان",
+        "DestenationTime" : "14:50",
+        "RoadDay" : "چهارشنبه 10 شهریور 97",
+        "Price" : "23385000"
+    },
+    {
+        "Origin" : "مشهد",
+        "OriginTime" : "10:45",
+        "BusInfo" : ["اتوبوس جادار", "اسکانیا 40 نفره"],
+        "Destenation" : "کرمانشاه",
+        "DestenationTime" : "20:40",
+        "RoadDay" : "جمعه 24 شهریور 98",
+        "Price" : "152250000"
+    },
+    {
+        "Origin" : "کهگلویه‌و‌بویراحمد",
+        "OriginTime" : "05:45",
+        "BusInfo" : ["اتوبوس VIP", "اسکانیا 30 نفره"],
+        "Destenation" : "سمنان",
+        "DestenationTime" : "14:50",
+        "RoadDay" : "سه‌شنبه 31 خرداد 99",
+        "Price" : "145000000"
+    }
+]

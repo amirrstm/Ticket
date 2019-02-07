@@ -1,0 +1,22 @@
+@font-face {
+    font-family: IranSans-Bold;
+    src: url('../fonts/IranSans/IRANSansWeb_Bold.ttf');
+}
+
+@font-face {
+    font-family: IranSans-Light;
+    src: url('../fonts/IranSans/IRANSansWeb_Light.ttf');
+}
+
+@font-face {
+    font-family: IranSans-Medium;
+    src: url('../fonts/IranSans/IRANSansWeb_Medium.ttf');
+}
+
+body {
+    font-family: IranSans-Light;
+}
+
+.minWidth {
+    min-width: 1100px;
+}
